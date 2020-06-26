@@ -31,7 +31,7 @@ const weatherUrl = 'https://api.openweathermap.org/data/2.5/weather';
 This app must Must be runned on 'live sever' ! 
 
 ## Image
-![](/img/demo.png)
+![](static/img/demo.png)
 
 ## Author
 
